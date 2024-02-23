@@ -1,0 +1,20 @@
+[1]
+Iniciar um projeto com React(comando):
+#####  npm create vite@latest (seguir as instruções);
+
+
+[2]
+Estrutura base do React:
+##### node_modules: dependências do projeto;
+##### public: arquivos estáticos;
+##### src: arquivos do projeto(onde escrevemos o codigo da aplicação);
+##### package.json: configurações do projeto;
+##### src/index.js: arquivo de inicialização da aplicação;
+##### src/App.js: arquivo principal da aplicação;
+
+[3]
+Componentes:
+##### São pedaços de código que podem ser reutilizados;
+##### Ficam dentro de uma pasta chamada components;
+##### Nomeados em CamelCase: FirstComponent.jsx; (utilizar jsx facilita a formatação para os editores);
+##### Dentro do componente precisamos criar e exportar uma função;
