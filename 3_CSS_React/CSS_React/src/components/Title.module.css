@@ -1,0 +1,6 @@
+/* module.css só funciona para o componente em questão*/
+.title {
+     color: lightsalmon;
+     background-color: lightyellow;
+     padding: 10px;
+}
